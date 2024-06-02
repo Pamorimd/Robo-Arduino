@@ -1,4 +1,3 @@
-```markdown
 # Robô Seguidor de Linha com Arduino
 
 Este projeto consiste em um robô seguidor de linha que utiliza um Arduino para seguir uma linha preta em um fundo branco. O robô é capaz de detectar a linha e ajustar seu caminho para segui-la.
